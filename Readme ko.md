@@ -1,8 +1,9 @@
 # AI 네이티브 침입 탐지를 위한 적대적 허니토큰 아키텍처 (AHA)
+# Adversarial Honeytoken Architecture for AI-Native Intrusion Detection (AHA)
 
 > **저자:** 김호광 (HoKwang Kim) · gameworekr@gmail.com  
 > **투고 목표:** IEEE Transactions on Information Forensics and Security (TIFS)  
-> **키워드:** 행동 비대칭성 · LLM 에이전트 탐지 · 허니토큰 · 동적 패턴 교체 · WAF 비교 · 클라우드 보안 경제성
+> **키워드:** 행동 비대칭성 · LLM 에이전트 탐지 · 허니토큰 · 동적 패턴 교체 · WAF 비교 · 클라우드 보안 경제성 Behavioral asymmetry · LLM agent detection · Honeytoken · Dynamic pattern rotation · WAF comparison · Cloud security economics
 
 ---
 
